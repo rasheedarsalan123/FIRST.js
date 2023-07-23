@@ -1,13 +1,10 @@
-alert("first practice java script")
+let userFavPlayer=prompt("What is Tha Faveriout player")
+console.log("Babar Azam WORLD Number on Bater "+userFavPlayer)
 
-var firstname="Today Pakistan WIN Tha Match <br>";
-document.write(firstname);
+let randomNumber=Math.random();
+randomNumber=randomNumber* 40;
+let roundedNumber=Math.round(randomNumber);
+console.log(roundedNumber)
+let a =300+200;
 
-var a =100;
-var b =10;
-
-document.write(a*b);
-
-var a =100;
-var b =10;
-document.write(a+b);
+console.log (a)
