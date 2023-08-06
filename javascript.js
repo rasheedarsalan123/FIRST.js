@@ -1,28 +1,25 @@
-//let userFav=prompt("babar azam batter in pakistan");
-//console.log ("babar azam by favourite"+userFav);
 
-//et data1=("50")
-//let data2= 50
-//console.log (+data1+data2)
-//let randomnumber=Math.random();
-//randomnumber=randomnumber*20;
-//let roundednumber=Math.round(randomnumber);
-//console.log(roundednumber)
-
-//let userAge=+prompt("Enter Yor Age");
-//if ( userAge>=18) {
-  //  console.log ( "YoU Can Applay Cnic");
+//function right(userName){console.log ("hello "+userName);
 //}
-//else console.log("you cant apply cnic");
-//let userNum =+prompt("inter you number");
-//let computerNum = Math.round(Math.random()*10);
-//if (userNum===computerNum){
-  //  console.log("you win")
-//}
-//else console.log("you lose"+computerNum);
-let userAge=+prompt("inter you Age");
-if (userAge<=10){console.log("you allow"); }
-else console.log("you dont allow");
+//right("sameer")
+//right("arsalan"
+//)
+//right("usman")
 
-let Table=18
-for (let i=1;i<=10;i++){console.log(Table+"x"+i+" = "+ Table*i);}
+//function add(NAM1,NAM2){
+ // return NAM1+NAM2;
+//}
+//let result =add(5,10)
+//document.write(result)
+
+//function datawrite(data,times){
+ // document.write(data);
+  //if(times>0)datawrite(data,times-1);
+//}
+//datawrite("hellow",5);
+
+
+
+
+
+
